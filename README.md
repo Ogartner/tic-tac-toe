@@ -1,1 +1,1 @@
-# A Game of tictactoe.
+# A Game of Tic-Tac-Toe.
